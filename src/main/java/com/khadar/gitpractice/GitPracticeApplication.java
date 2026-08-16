@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitPracticeApplication {
 
     public static void main(String[] args) {
+        System.out.println("Add logger in main method");
         SpringApplication.run(GitPracticeApplication.class, args);
     }
 
