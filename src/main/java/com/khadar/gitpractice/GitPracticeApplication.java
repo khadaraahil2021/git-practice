@@ -15,6 +15,7 @@ public class GitPracticeApplication {
         System.out.println("Add logger in main method 5");
         System.out.println("Add logger in main method 6");
         System.out.println("Add logger in main method 7");
+        System.out.println("Add logger in main method 8");
     }
 
 }
